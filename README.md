@@ -24,5 +24,6 @@ Run the command **npm start** to start the application.
 User Account Creation: Users can create new accounts with their desired credentials.
 Secure Password Storage: User passwords are encrypted and stored securely in the database.
 Google Authentication: The system supports Google authentication, allowing users to sign in using their Google accounts.
-By utilizing this starter code, you can quickly develop applications with a robust and reliable authentication system in place. It ensures the protection of user credentials and offers the convenience of Google authentication for seamless user experience.
+By utilizing this starter code, you can quickly develop applications with a robust and reliable authentication system in place. 
+It ensures the protection of user credentials and offers the convenience of Google authentication for seamless user experience.
 </pre>
