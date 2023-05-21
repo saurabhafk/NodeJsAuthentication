@@ -2,7 +2,7 @@
 
 Here is a comprehensive authentication system that serves as a foundation for building new applications. It incorporates various technologies and features to ensure secure user authentication.
 
-Technologies Used:
+<h2>Technologies Used:</h2>
 
 **Frontend:** HTML, CSS, JavaScript
 **Backend and Database:** Node.js, Express, EJS, MongoDB
@@ -18,7 +18,7 @@ Run the command **npm install** to install the necessary dependencies.
 Configure the **MongoDB connection** in the application.
 Run the command **npm start** to start the application.
 
-Features:
+<h1>Features:</h1>
 
 User Account Creation: Users can create new accounts with their desired credentials.
 Secure Password Storage: User passwords are encrypted and stored securely in the database.
