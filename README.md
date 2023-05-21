@@ -12,14 +12,14 @@ Here is a comprehensive authentication system that serves as a foundation for bu
 To install and set up the system, follow these steps:
 
 
-<ul>
+<pre><ul>
 <li>Install **Node.js** and **MongoDB** on your machine.</li>
 <li>Clone the authentication system's repository from the provided source.</li>
 <li>**Navigate to the project directory** using the command line.</li>
 <li>Run the command **npm install** to install the necessary dependencies.</li>
 <li>Configure the **MongoDB connection** in the application.</li>
 <li>Run the command **npm start** to start the application.</li>
-</ul>
+</ul></pre>
 
 
 <h1>Features:</h1>
