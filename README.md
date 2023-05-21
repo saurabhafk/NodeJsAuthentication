@@ -24,9 +24,9 @@ To install and set up the system, follow these steps:
 
 <h1>Features:</h1>
 <pre>
-User Account Creation: Users can create new accounts with their desired credentials.
-Secure Password Storage: User passwords are encrypted and stored securely in the database.
-Google Authentication: The system supports Google authentication, allowing users to sign in using their Google accounts.
-By utilizing this starter code, you can quickly develop applications with a robust and reliable authentication system in place. 
-It ensures the protection of user credentials and offers the convenience of Google authentication for seamless user experience.
+<li>User Account Creation: Users can create new accounts with their desired credentials.</li>
+<li>Secure Password Storage: User passwords are encrypted and stored securely in the database.</li>
+<li>Google Authentication: The system supports Google authentication, allowing users to sign in using their Google accounts.</li>
+<li>By utilizing this starter code, you can quickly develop applications with a robust and reliable authentication system in place. 
+It ensures the protection of user credentials and offers the convenience of Google authentication for seamless user experience.</li>
 </pre>
