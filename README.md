@@ -11,7 +11,7 @@ Here is a comprehensive authentication system that serves as a foundation for bu
 <h1>Installation:</h1>
 To install and set up the system, follow these steps:
 
-<pre>
+
 <ul>
 <li>Install **Node.js** and **MongoDB** on your machine.</li>
 <li>Clone the authentication system's repository from the provided source.</li>
@@ -20,7 +20,7 @@ To install and set up the system, follow these steps:
 <li>Configure the **MongoDB connection** in the application.</li>
 <li>Run the command **npm start** to start the application.</li>
 </ul>
-</pre>
+
 
 <h1>Features:</h1>
 <pre>
