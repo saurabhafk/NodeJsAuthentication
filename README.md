@@ -4,8 +4,8 @@ Here is a comprehensive authentication system that serves as a foundation for bu
 
 <h2>Technologies Used:</h2>
 
-**Frontend:** HTML, CSS, JavaScript
-**Backend and Database:** Node.js, Express, EJS, MongoDB
+**Frontend:** HTML, CSS, JavaScript<br>
+**Backend and Database:** Node.js, Express, EJS, MongoDB<br>
 **Authentication:** Passport.js
 
 <h1>Installation:</h1>
